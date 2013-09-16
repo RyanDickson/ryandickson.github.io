@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[A Fifth of Wry]]></title>
+  <link href="http://RyanDickson.github.io/atom.xml" rel="self"/>
+  <link href="http://RyanDickson.github.io/"/>
+  <updated>2013-09-15T22:46:58-04:00</updated>
+  <id>http://RyanDickson.github.io/</id>
+  <author>
+    <name><![CDATA[Ryan Dickson]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Blog]]></title>
+    <link href="http://RyanDickson.github.io/blog/2013/09/15/hello-blog/"/>
+    <updated>2013-09-15T22:08:00-04:00</updated>
+    <id>http://RyanDickson.github.io/blog/2013/09/15/hello-blog</id>
+    <content type="html"><![CDATA[<p>Thusly begins my infliction of my wit most dry upon the world wide web.</p>
+]]></content>
+  </entry>
+  
+</feed>
